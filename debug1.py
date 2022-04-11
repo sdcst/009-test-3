@@ -1,12 +1,22 @@
 #!python3
 """
-Debug this program so that it runs AND
-stores the input into the variable "data"
+Determine the error in this program and fix it. There is only 1 error
 
 original code:
-message="Input a number"
-data input(message)
+val = True
+count = 0
+while val
+    count = count + 1
+    if count > 4:
+        break
+    print('looping 4 times')
+
 """
 
-message="Input a number"
-data input(message)
+val = True
+count = 0
+while val
+    count = count + 1
+    if count > 4:
+        break
+    print('looping 4 times')

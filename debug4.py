@@ -1,16 +1,10 @@
 #!python3
-"""
-Debug this program so that it runs
 
-original code:
-x = 3
-if x = 3:
-    print("x is 3")
-else:
-    print("x = 4")
 """
-x = 3
-if x = 3:
-    print("x is 3")
-else:
-    print("x = 4")
+Find and fix the semantic error in this program
+"""
+
+count = 0
+while count > 5:
+    count = count+1
+    print("This will loop 5 times")

@@ -1,16 +1,9 @@
 #!python3
 """
-Debug this program so that it runs
-
-program should read a float value
-and use it as an exponent rounded to 2 decimal places
-
-original code:
-x = Input("enter a float number:")
-round(x)
-print(x)
+Find and fix the errors in this program
 """
 
-x = Input("enter a float number:")
-round(x)
-print(x)
+myList = [0,1,2,3,4,5,6,7,8,9]
+
+while x in myList:
+    print(x)
